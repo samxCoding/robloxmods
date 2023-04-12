@@ -1,0 +1,21 @@
+- Login Details:
+varHelp(
+Type = web; mdplate/roblox.com/userid
+)
+
+username:reach("") [UserIDSET] = ""
+  netWork Prompt(type)
+"Checking for access..."
+use Scratch v3_module.mdrmodules
+if user = partich1 
+start errorAccess
+else 
+start ContinuingMitch
+
+get file>mdgplate
+
+Load_Mods
+
+XP0
+
+enter finish
