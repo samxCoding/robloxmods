@@ -1,0 +1,5 @@
+print("assets downloaded...")
+print("you are welcome to retry this file and launching it...***************************************l0aOe0*********")
+print("Loading Security")
+print("Unknown Resources were NOT detected.")
+print("Autocmd; /quit security.py")
