@@ -1,1 +1,4 @@
-I came back to this cause we need macos . windows is out there but not macos.
+ALERT!! 
+Released Versions once adding to directory to roblox, you might need to reinstall roblox then repeat process.
+
+And due to some mods out there you might need to keep your current mod browser.
